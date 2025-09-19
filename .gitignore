@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Node / npm ###
+/node_modules/
+/package-lock.json
+/yarn.lock
+
+### Tailwind generated CSS ###
+/src/main/resources/static/css/style.css
